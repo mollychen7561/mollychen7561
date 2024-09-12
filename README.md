@@ -1,4 +1,4 @@
-<h2 align="center">𖡼.𖤣𖥧𖡼.𖤣𖥧 Hello  𖡼.𖤣𖥧𖡼.𖤣𖥧</h2>
+<h2 align="center">𖡼.𖤣𖥧𖡼.𖤣𖥧 About Me 𖡼.𖤣𖥧𖡼.𖤣𖥧</h2>
 <p align="justify">Hi, I'm Molly •ᴗ•. I graduated from NCCU (MS) and NTU (BA). Because I like information visualization, I embarked on the journey of self-studying to become a front-end engineer. I am currently actively seeking job opportunities.
 
 I also enjoy watching animal documentaries on channels like National Geographic and Discovery, especially those about parrots🦜 – they are so cute. I hope one day I can go to Iceland to see puffins and to Australia to see cockatoos~</p>
