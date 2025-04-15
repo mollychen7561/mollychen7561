@@ -1,7 +1,7 @@
 <h2 align="center">ᨒ↟ 𖠰 About Me ᨒ↟ 𖠰</h2>
-<p align="justify">Hi, I'm Molly •ᴗ•. I graduated from NCCU (MS) and NTU (BA). Because I like information visualization, I embarked on the journey of self-studying to become a front-end engineer. I am currently actively seeking job opportunities.
+<p align="justify">Hi, I'm Molly •ᴗ•. I graduated from NCCU (MS) and NTU (BA). Because I like information visualization, I embarked on the journey of self-studying to become a front-end engineer.
 
-I also enjoy watching animal documentaries on channels like National Geographic and Discovery, especially those about parrots🦜 – they are so cute. </p>
+
 
 
 <p align="center"><strong>⋆⭒˚.⋆🪐 ⋆⭒˚.⋆ Technologies ⋆⭒˚.⋆🪐 ⋆⭒˚.⋆</strong></p>
