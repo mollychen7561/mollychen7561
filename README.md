@@ -1,9 +1,3 @@
-<h2 align="center">ᨒ↟ 𖠰 About Me ᨒ↟ 𖠰</h2>
-<p align="justify">Hi, I'm Molly •ᴗ•. I graduated from NCCU (MS) and NTU (BA). Because I like information visualization, I embarked on the journey of self-studying to become a front-end engineer.
-
-
-
-
 <p align="center"><strong>⋆⭒˚.⋆🪐 ⋆⭒˚.⋆ Technologies ⋆⭒˚.⋆🪐 ⋆⭒˚.⋆</strong></p>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVASCRIPT-141414?style=for-the-badge&logo=javascript" alt="JAVASCRIPT" />
